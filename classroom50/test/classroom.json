@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Test",
+  "short_name": "test",
+  "term": "atea",
+  "org": "lcclstudents",
+  "team": {
+    "id": 18454174,
+    "slug": "classroom50-test"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18454175,
+      "slug": "classroom50-test-instructor"
+    },
+    "ta": {
+      "id": 18454176,
+      "slug": "classroom50-test-ta"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "classroom50/assignments/v1",
+  "assignments": [
+    {
+      "slug": "loop",
+      "name": "loop",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-WB-ch04-skeleton",
+        "branch": "main"
+      },
+      "description": "abcdefue"
+    },
+    {
+      "slug": "test2",
+      "name": "test2",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-WB-ch04-skeleton",
+        "branch": "main"
+      }
+    }
+  ]
+}
