@@ -19,6 +19,237 @@
           "run": "python3 -m doctest ex001.py",
           "points": 1,
           "setup": "cd exercises"
+        },
+        {
+          "name": "ex002",
+          "type": "run",
+          "run": "python3 -m doctest ex002.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex003",
+          "type": "run",
+          "run": "python3 -m doctest ex003.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex004",
+          "type": "run",
+          "run": "python3 -m doctest ex004.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex005",
+          "type": "run",
+          "run": "python3 -m doctest ex005.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex006",
+          "type": "run",
+          "run": "python3 -m doctest ex006.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex007",
+          "type": "run",
+          "run": "python3 -m doctest ex007.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex008",
+          "type": "run",
+          "run": "python3 -m doctest ex008.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex009",
+          "type": "run",
+          "run": "python3 -m doctest ex009.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex010",
+          "type": "run",
+          "run": "python3 -m doctest ex010.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex011",
+          "type": "run",
+          "run": "python3 -m doctest ex011.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex012",
+          "type": "run",
+          "run": "python3 -m doctest ex012.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex013",
+          "type": "run",
+          "run": "python3 -m doctest ex013.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex014",
+          "type": "run",
+          "run": "python3 -m doctest ex014.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex015",
+          "type": "run",
+          "run": "python3 -m doctest ex015.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex016",
+          "type": "run",
+          "run": "python3 -m doctest ex016.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex017",
+          "type": "run",
+          "run": "python3 -m doctest ex017.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex018",
+          "type": "run",
+          "run": "python3 -m doctest ex018.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex019",
+          "type": "run",
+          "run": "python3 -m doctest ex019.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex020",
+          "type": "run",
+          "run": "python3 -m doctest ex020.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex021",
+          "type": "run",
+          "run": "python3 -m doctest ex021.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex022",
+          "type": "run",
+          "run": "python3 -m doctest ex022.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex023",
+          "type": "run",
+          "run": "python3 -m doctest ex023.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex024",
+          "type": "run",
+          "run": "python3 -m doctest ex024.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex025",
+          "type": "run",
+          "run": "python3 -m doctest ex025.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex026",
+          "type": "run",
+          "run": "python3 -m doctest ex026.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex027",
+          "type": "run",
+          "run": "python3 -m doctest ex027.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex028",
+          "type": "run",
+          "run": "python3 -m doctest ex028.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex029",
+          "type": "run",
+          "run": "python3 -m doctest ex029.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex030",
+          "type": "run",
+          "run": "python3 -m doctest ex030.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex031",
+          "type": "run",
+          "run": "python3 -m doctest ex031.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex032",
+          "type": "run",
+          "run": "python3 -m doctest ex032.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex033",
+          "type": "run",
+          "run": "python3 -m doctest ex033.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex034",
+          "type": "run",
+          "run": "python3 -m doctest ex034.py",
+          "points": 1,
+          "setup": "cd exercises"
         }
       ]
     }
