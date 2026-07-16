@@ -252,6 +252,18 @@
           "setup": "cd exercises"
         }
       ]
+    },
+    {
+      "slug": "wb-ch02",
+      "name": "Chapter 2: Conditionals",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-WB-ch02-template",
+        "branch": "main"
+      }
     }
   ]
 }
