@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "wb-ch01",
+      "name": "Chapter 1: Printing & Expression",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-WB-ch01-template",
+        "branch": "main"
+      }
+    }
+  ]
 }
