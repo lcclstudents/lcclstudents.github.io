@@ -1,1 +1,1 @@
-{"classrooms": [{"schema": "classroom50/classroom/v1", "name": "PY2", "short_name": "py2", "term": "", "org": "lcclstudents"}]}
+{"classrooms": [{"schema": "classroom50/classroom/v1", "name": "PY1", "short_name": "py1", "term": "", "org": "lcclstudents"}, {"schema": "classroom50/classroom/v1", "name": "PY2", "short_name": "py2", "term": "", "org": "lcclstudents"}]}
