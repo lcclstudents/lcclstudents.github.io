@@ -11,7 +11,16 @@
         "owner": "lcclstudents",
         "repo": "PY2-WB-ch01-template",
         "branch": "main"
-      }
+      },
+      "tests": [
+        {
+          "name": "ex001",
+          "type": "run",
+          "run": "python3 -m doctest ex001.py",
+          "points": 1,
+          "setup": "cd exercises"
+        }
+      ]
     }
   ]
 }
