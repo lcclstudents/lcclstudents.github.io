@@ -2,54 +2,6 @@
   "schema": "classroom50/assignments/v1",
   "assignments": [
     {
-      "slug": "wb-ch01",
-      "name": "Chapter 1: Printing & Expression",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "template": {
-        "owner": "lcclstudents",
-        "repo": "PY2-WB-ch01-skeleton",
-        "branch": "main"
-      },
-      "tests": [
-        { "name": "ex001", "type": "run", "run": "cd exercises && python3 -m doctest ex001.py", "points": 1},
-        { "name": "ex002", "type": "run", "run": "cd exercises && python3 -m doctest ex002.py", "points": 1},
-        { "name": "ex003", "type": "run", "run": "cd exercises && python3 -m doctest ex003.py", "points": 1},
-        { "name": "ex004", "type": "run", "run": "cd exercises && python3 -m doctest ex004.py", "points": 1},
-        { "name": "ex005", "type": "run", "run": "cd exercises && python3 -m doctest ex005.py", "points": 1},
-        { "name": "ex006", "type": "run", "run": "cd exercises && python3 -m doctest ex006.py", "points": 1},
-        { "name": "ex007", "type": "run", "run": "cd exercises && python3 -m doctest ex007.py", "points": 1},
-        { "name": "ex008", "type": "run", "run": "cd exercises && python3 -m doctest ex008.py", "points": 1},
-        { "name": "ex009", "type": "run", "run": "cd exercises && python3 -m doctest ex009.py", "points": 1},
-        { "name": "ex010", "type": "run", "run": "cd exercises && python3 -m doctest ex010.py", "points": 1},
-        { "name": "ex011", "type": "run", "run": "cd exercises && python3 -m doctest ex011.py", "points": 1},
-        { "name": "ex012", "type": "run", "run": "cd exercises && python3 -m doctest ex012.py", "points": 1},
-        { "name": "ex013", "type": "run", "run": "cd exercises && python3 -m doctest ex013.py", "points": 1},
-        { "name": "ex014", "type": "run", "run": "cd exercises && python3 -m doctest ex014.py", "points": 1},
-        { "name": "ex015", "type": "run", "run": "cd exercises && python3 -m doctest ex015.py", "points": 1},
-        { "name": "ex016", "type": "run", "run": "cd exercises && python3 -m doctest ex016.py", "points": 1},
-        { "name": "ex017", "type": "run", "run": "cd exercises && python3 -m doctest ex017.py", "points": 1},
-        { "name": "ex018", "type": "run", "run": "cd exercises && python3 -m doctest ex018.py", "points": 1},
-        { "name": "ex019", "type": "run", "run": "cd exercises && python3 -m doctest ex019.py", "points": 1},
-        { "name": "ex020", "type": "run", "run": "cd exercises && python3 -m doctest ex020.py", "points": 1},
-        { "name": "ex021", "type": "run", "run": "cd exercises && python3 -m doctest ex021.py", "points": 1},
-        { "name": "ex022", "type": "run", "run": "cd exercises && python3 -m doctest ex022.py", "points": 1},
-        { "name": "ex023", "type": "run", "run": "cd exercises && python3 -m doctest ex023.py", "points": 1},
-        { "name": "ex024", "type": "run", "run": "cd exercises && python3 -m doctest ex024.py", "points": 1},
-        { "name": "ex025", "type": "run", "run": "cd exercises && python3 -m doctest ex025.py", "points": 1},
-        { "name": "ex026", "type": "run", "run": "cd exercises && python3 -m doctest ex026.py", "points": 1},
-        { "name": "ex027", "type": "run", "run": "cd exercises && python3 -m doctest ex027.py", "points": 1},
-        { "name": "ex028", "type": "run", "run": "cd exercises && python3 -m doctest ex028.py", "points": 1},
-        { "name": "ex029", "type": "run", "run": "cd exercises && python3 -m doctest ex029.py", "points": 1},
-        { "name": "ex030", "type": "run", "run": "cd exercises && python3 -m doctest ex030.py", "points": 1},
-        { "name": "ex031", "type": "run", "run": "cd exercises && python3 -m doctest ex031.py", "points": 1},
-        { "name": "ex032", "type": "run", "run": "cd exercises && python3 -m doctest ex032.py", "points": 1},
-        { "name": "ex033", "type": "run", "run": "cd exercises && python3 -m doctest ex033.py", "points": 1},
-        { "name": "ex034", "type": "run", "run": "cd exercises && python3 -m doctest ex034.py", "points": 1}
-      ]
-    },
-    {
       "slug": "wb-ch02",
       "name": "Chapter 2: Conditionals",
       "mode": "individual",
@@ -61,34 +13,174 @@
         "branch": "main"
       },
       "tests": [
-        { "name": "ex035", "type": "run", "run": "cd exercises && python3 -m doctest ex035.py", "points": 1},
-        { "name": "ex036", "type": "run", "run": "cd exercises && python3 -m doctest ex036.py", "points": 1},
-        { "name": "ex037", "type": "run", "run": "cd exercises && python3 -m doctest ex037.py", "points": 1},
-        { "name": "ex038", "type": "run", "run": "cd exercises && python3 -m doctest ex038.py", "points": 1},
-        { "name": "ex039", "type": "run", "run": "cd exercises && python3 -m doctest ex039.py", "points": 1},
-        { "name": "ex040", "type": "run", "run": "cd exercises && python3 -m doctest ex040.py", "points": 1},
-        { "name": "ex041", "type": "run", "run": "cd exercises && python3 -m doctest ex041.py", "points": 1},
-        { "name": "ex042", "type": "run", "run": "cd exercises && python3 -m doctest ex042.py", "points": 1},
-        { "name": "ex043", "type": "run", "run": "cd exercises && python3 -m doctest ex043.py", "points": 1},
-        { "name": "ex044", "type": "run", "run": "cd exercises && python3 -m doctest ex044.py", "points": 1},
-        { "name": "ex045", "type": "run", "run": "cd exercises && python3 -m doctest ex045.py", "points": 1},
-        { "name": "ex046", "type": "run", "run": "cd exercises && python3 -m doctest ex046.py", "points": 1},
-        { "name": "ex047", "type": "run", "run": "cd exercises && python3 -m doctest ex047.py", "points": 1},
-        { "name": "ex048", "type": "run", "run": "cd exercises && python3 -m doctest ex048.py", "points": 1},
-        { "name": "ex049", "type": "run", "run": "cd exercises && python3 -m doctest ex049.py", "points": 1},
-        { "name": "ex050", "type": "run", "run": "cd exercises && python3 -m doctest ex050.py", "points": 1},
-        { "name": "ex051", "type": "run", "run": "cd exercises && python3 -m doctest ex051.py", "points": 1},
-        { "name": "ex052", "type": "run", "run": "cd exercises && python3 -m doctest ex052.py", "points": 1},
-        { "name": "ex053", "type": "run", "run": "cd exercises && python3 -m doctest ex053.py", "points": 1},
-        { "name": "ex054", "type": "run", "run": "cd exercises && python3 -m doctest ex054.py", "points": 1},
-        { "name": "ex055", "type": "run", "run": "cd exercises && python3 -m doctest ex055.py", "points": 1},
-        { "name": "ex056", "type": "run", "run": "cd exercises && python3 -m doctest ex056.py", "points": 1},
-        { "name": "ex057", "type": "run", "run": "cd exercises && python3 -m doctest ex057.py", "points": 1},
-        { "name": "ex058", "type": "run", "run": "cd exercises && python3 -m doctest ex058.py", "points": 1},
-        { "name": "ex059", "type": "run", "run": "cd exercises && python3 -m doctest ex059.py", "points": 1},
-        { "name": "ex060", "type": "run", "run": "cd exercises && python3 -m doctest ex060.py", "points": 1},
-        { "name": "ex061", "type": "run", "run": "cd exercises && python3 -m doctest ex061.py", "points": 1},
-        { "name": "ex062", "type": "run", "run": "cd exercises && python3 -m doctest ex062.py", "points": 1}
+        {
+          "name": "ex035",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex035.py",
+          "points": 1
+        },
+        {
+          "name": "ex036",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex036.py",
+          "points": 1
+        },
+        {
+          "name": "ex037",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex037.py",
+          "points": 1
+        },
+        {
+          "name": "ex038",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex038.py",
+          "points": 1
+        },
+        {
+          "name": "ex039",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex039.py",
+          "points": 1
+        },
+        {
+          "name": "ex040",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex040.py",
+          "points": 1
+        },
+        {
+          "name": "ex041",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex041.py",
+          "points": 1
+        },
+        {
+          "name": "ex042",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex042.py",
+          "points": 1
+        },
+        {
+          "name": "ex043",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex043.py",
+          "points": 1
+        },
+        {
+          "name": "ex044",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex044.py",
+          "points": 1
+        },
+        {
+          "name": "ex045",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex045.py",
+          "points": 1
+        },
+        {
+          "name": "ex046",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex046.py",
+          "points": 1
+        },
+        {
+          "name": "ex047",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex047.py",
+          "points": 1
+        },
+        {
+          "name": "ex048",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex048.py",
+          "points": 1
+        },
+        {
+          "name": "ex049",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex049.py",
+          "points": 1
+        },
+        {
+          "name": "ex050",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex050.py",
+          "points": 1
+        },
+        {
+          "name": "ex051",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex051.py",
+          "points": 1
+        },
+        {
+          "name": "ex052",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex052.py",
+          "points": 1
+        },
+        {
+          "name": "ex053",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex053.py",
+          "points": 1
+        },
+        {
+          "name": "ex054",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex054.py",
+          "points": 1
+        },
+        {
+          "name": "ex055",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex055.py",
+          "points": 1
+        },
+        {
+          "name": "ex056",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex056.py",
+          "points": 1
+        },
+        {
+          "name": "ex057",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex057.py",
+          "points": 1
+        },
+        {
+          "name": "ex058",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex058.py",
+          "points": 1
+        },
+        {
+          "name": "ex059",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex059.py",
+          "points": 1
+        },
+        {
+          "name": "ex060",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex060.py",
+          "points": 1
+        },
+        {
+          "name": "ex061",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex061.py",
+          "points": 1
+        },
+        {
+          "name": "ex062",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex062.py",
+          "points": 1
+        }
       ]
     },
     {
@@ -103,28 +195,138 @@
         "branch": "main"
       },
       "tests": [
-        { "name": "ex063", "type": "run", "run": "cd exercises && python3 -m doctest ex063.py", "points": 1},
-        { "name": "ex064", "type": "run", "run": "cd exercises && python3 -m doctest ex064.py", "points": 1},
-        { "name": "ex065", "type": "run", "run": "cd exercises && python3 -m doctest ex065.py", "points": 1},
-        { "name": "ex066", "type": "run", "run": "cd exercises && python3 -m doctest ex066.py", "points": 1},
-        { "name": "ex067", "type": "run", "run": "cd exercises && python3 -m doctest ex067.py", "points": 1},
-        { "name": "ex068", "type": "run", "run": "cd exercises && python3 -m doctest ex068.py", "points": 1},
-        { "name": "ex069", "type": "run", "run": "cd exercises && python3 -m doctest ex069.py", "points": 1},
-        { "name": "ex070", "type": "run", "run": "cd exercises && python3 -m doctest ex070.py", "points": 1},
-        { "name": "ex071", "type": "run", "run": "cd exercises && python3 -m doctest ex071.py", "points": 1},
-        { "name": "ex072", "type": "run", "run": "cd exercises && python3 -m doctest ex072.py", "points": 1},
-        { "name": "ex073", "type": "run", "run": "cd exercises && python3 -m doctest ex073.py", "points": 1},
-        { "name": "ex074", "type": "run", "run": "cd exercises && python3 -m doctest ex074.py", "points": 1},
-        { "name": "ex075", "type": "run", "run": "cd exercises && python3 -m doctest ex075.py", "points": 1},
-        { "name": "ex076", "type": "run", "run": "cd exercises && python3 -m doctest ex076.py", "points": 1},
-        { "name": "ex077", "type": "run", "run": "cd exercises && python3 -m doctest ex077.py", "points": 1},
-        { "name": "ex078", "type": "run", "run": "cd exercises && python3 -m doctest ex078.py", "points": 1},
-        { "name": "ex079", "type": "run", "run": "cd exercises && python3 -m doctest ex079.py", "points": 1},
-        { "name": "ex080", "type": "run", "run": "cd exercises && python3 -m doctest ex080.py", "points": 1},
-        { "name": "ex081", "type": "run", "run": "cd exercises && python3 -m doctest ex081.py", "points": 1},
-        { "name": "ex082", "type": "run", "run": "cd exercises && python3 -m doctest ex082.py", "points": 1},
-        { "name": "ex083", "type": "run", "run": "cd exercises && python3 -m doctest ex083.py", "points": 1},
-        { "name": "ex084", "type": "run", "run": "cd exercises && python3 -m doctest ex084.py", "points": 1}
+        {
+          "name": "ex063",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex063.py",
+          "points": 1
+        },
+        {
+          "name": "ex064",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex064.py",
+          "points": 1
+        },
+        {
+          "name": "ex065",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex065.py",
+          "points": 1
+        },
+        {
+          "name": "ex066",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex066.py",
+          "points": 1
+        },
+        {
+          "name": "ex067",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex067.py",
+          "points": 1
+        },
+        {
+          "name": "ex068",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex068.py",
+          "points": 1
+        },
+        {
+          "name": "ex069",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex069.py",
+          "points": 1
+        },
+        {
+          "name": "ex070",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex070.py",
+          "points": 1
+        },
+        {
+          "name": "ex071",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex071.py",
+          "points": 1
+        },
+        {
+          "name": "ex072",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex072.py",
+          "points": 1
+        },
+        {
+          "name": "ex073",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex073.py",
+          "points": 1
+        },
+        {
+          "name": "ex074",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex074.py",
+          "points": 1
+        },
+        {
+          "name": "ex075",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex075.py",
+          "points": 1
+        },
+        {
+          "name": "ex076",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex076.py",
+          "points": 1
+        },
+        {
+          "name": "ex077",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex077.py",
+          "points": 1
+        },
+        {
+          "name": "ex078",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex078.py",
+          "points": 1
+        },
+        {
+          "name": "ex079",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex079.py",
+          "points": 1
+        },
+        {
+          "name": "ex080",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex080.py",
+          "points": 1
+        },
+        {
+          "name": "ex081",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex081.py",
+          "points": 1
+        },
+        {
+          "name": "ex082",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex082.py",
+          "points": 1
+        },
+        {
+          "name": "ex083",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex083.py",
+          "points": 1
+        },
+        {
+          "name": "ex084",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex084.py",
+          "points": 1
+        }
       ]
     },
     {
@@ -139,31 +341,156 @@
         "branch": "main"
       },
       "tests": [
-        { "name": "ex085", "type": "run", "run": "cd exercises && python3 -m doctest ex085.py", "points": 1},
-        { "name": "ex086", "type": "run", "run": "cd exercises && python3 -m doctest ex086.py", "points": 1},
-        { "name": "ex087", "type": "run", "run": "cd exercises && python3 -m doctest ex087.py", "points": 1},
-        { "name": "ex088", "type": "run", "run": "cd exercises && python3 -m doctest ex088.py", "points": 1},
-        { "name": "ex089", "type": "run", "run": "cd exercises && python3 -m doctest ex089.py", "points": 1},
-        { "name": "ex090", "type": "run", "run": "cd exercises && python3 -m doctest ex090.py", "points": 1},
-        { "name": "ex091", "type": "run", "run": "cd exercises && python3 -m doctest ex091.py", "points": 1},
-        { "name": "ex092", "type": "run", "run": "cd exercises && python3 -m doctest ex092.py", "points": 1},
-        { "name": "ex093", "type": "run", "run": "cd exercises && python3 -m doctest ex093.py", "points": 1},
-        { "name": "ex094", "type": "run", "run": "cd exercises && python3 -m doctest ex094.py", "points": 1},
-        { "name": "ex095", "type": "run", "run": "cd exercises && python3 -m doctest ex095.py", "points": 1},
-        { "name": "ex096", "type": "run", "run": "cd exercises && python3 -m doctest ex096.py", "points": 1},
-        { "name": "ex097", "type": "run", "run": "cd exercises && python3 -m doctest ex097.py", "points": 1},
-        { "name": "ex098", "type": "run", "run": "cd exercises && python3 -m doctest ex098.py", "points": 1},
-        { "name": "ex099", "type": "run", "run": "cd exercises && python3 -m doctest ex099.py", "points": 1},
-        { "name": "ex100", "type": "run", "run": "cd exercises && python3 -m doctest ex100.py", "points": 1},
-        { "name": "ex101", "type": "run", "run": "cd exercises && python3 -m doctest ex101.py", "points": 1},
-        { "name": "ex102", "type": "run", "run": "cd exercises && python3 -m doctest ex102.py", "points": 1},
-        { "name": "ex103", "type": "run", "run": "cd exercises && python3 -m doctest ex103.py", "points": 1},
-        { "name": "ex104", "type": "run", "run": "cd exercises && python3 -m doctest ex104.py", "points": 1},
-        { "name": "ex105", "type": "run", "run": "cd exercises && python3 -m doctest ex105.py", "points": 1},
-        { "name": "ex106", "type": "run", "run": "cd exercises && python3 -m doctest ex106.py", "points": 1},
-        { "name": "ex107", "type": "run", "run": "cd exercises && python3 -m doctest ex107.py", "points": 1},
-        { "name": "ex108", "type": "run", "run": "cd exercises && python3 -m doctest ex108.py", "points": 1},
-        { "name": "ex109", "type": "run", "run": "cd exercises && python3 -m doctest ex109.py", "points": 1}
+        {
+          "name": "ex085",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex085.py",
+          "points": 1
+        },
+        {
+          "name": "ex086",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex086.py",
+          "points": 1
+        },
+        {
+          "name": "ex087",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex087.py",
+          "points": 1
+        },
+        {
+          "name": "ex088",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex088.py",
+          "points": 1
+        },
+        {
+          "name": "ex089",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex089.py",
+          "points": 1
+        },
+        {
+          "name": "ex090",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex090.py",
+          "points": 1
+        },
+        {
+          "name": "ex091",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex091.py",
+          "points": 1
+        },
+        {
+          "name": "ex092",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex092.py",
+          "points": 1
+        },
+        {
+          "name": "ex093",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex093.py",
+          "points": 1
+        },
+        {
+          "name": "ex094",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex094.py",
+          "points": 1
+        },
+        {
+          "name": "ex095",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex095.py",
+          "points": 1
+        },
+        {
+          "name": "ex096",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex096.py",
+          "points": 1
+        },
+        {
+          "name": "ex097",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex097.py",
+          "points": 1
+        },
+        {
+          "name": "ex098",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex098.py",
+          "points": 1
+        },
+        {
+          "name": "ex099",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex099.py",
+          "points": 1
+        },
+        {
+          "name": "ex100",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex100.py",
+          "points": 1
+        },
+        {
+          "name": "ex101",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex101.py",
+          "points": 1
+        },
+        {
+          "name": "ex102",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex102.py",
+          "points": 1
+        },
+        {
+          "name": "ex103",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex103.py",
+          "points": 1
+        },
+        {
+          "name": "ex104",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex104.py",
+          "points": 1
+        },
+        {
+          "name": "ex105",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex105.py",
+          "points": 1
+        },
+        {
+          "name": "ex106",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex106.py",
+          "points": 1
+        },
+        {
+          "name": "ex107",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex107.py",
+          "points": 1
+        },
+        {
+          "name": "ex108",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex108.py",
+          "points": 1
+        },
+        {
+          "name": "ex109",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex109.py",
+          "points": 1
+        }
       ]
     },
     {
@@ -178,32 +505,162 @@
         "branch": "main"
       },
       "tests": [
-        { "name": "ex110", "type": "run", "run": "cd exercises && python3 -m doctest ex110.py", "points": 1},
-        { "name": "ex111", "type": "run", "run": "cd exercises && python3 -m doctest ex111.py", "points": 1},
-        { "name": "ex112", "type": "run", "run": "cd exercises && python3 -m doctest ex112.py", "points": 1},
-        { "name": "ex113", "type": "run", "run": "cd exercises && python3 -m doctest ex113.py", "points": 1},
-        { "name": "ex114", "type": "run", "run": "cd exercises && python3 -m doctest ex114.py", "points": 1},
-        { "name": "ex115", "type": "run", "run": "cd exercises && python3 -m doctest ex115.py", "points": 1},
-        { "name": "ex116", "type": "run", "run": "cd exercises && python3 -m doctest ex116.py", "points": 1},
-        { "name": "ex117", "type": "run", "run": "cd exercises && python3 -m doctest ex117.py", "points": 1},
-        { "name": "ex118", "type": "run", "run": "cd exercises && python3 -m doctest ex118.py", "points": 1},
-        { "name": "ex119", "type": "run", "run": "cd exercises && python3 -m doctest ex119.py", "points": 1},
-        { "name": "ex120", "type": "run", "run": "cd exercises && python3 -m doctest ex120.py", "points": 1},
-        { "name": "ex121", "type": "run", "run": "cd exercises && python3 -m doctest ex121.py", "points": 1},
-        { "name": "ex122", "type": "run", "run": "cd exercises && python3 -m doctest ex122.py", "points": 1},
-        { "name": "ex123", "type": "run", "run": "cd exercises && python3 -m doctest ex123.py", "points": 1},
-        { "name": "ex124", "type": "run", "run": "cd exercises && python3 -m doctest ex124.py", "points": 1},
-        { "name": "ex125", "type": "run", "run": "cd exercises && python3 -m doctest ex125.py", "points": 1},
-        { "name": "ex126", "type": "run", "run": "cd exercises && python3 -m doctest ex126.py", "points": 1},
-        { "name": "ex127", "type": "run", "run": "cd exercises && python3 -m doctest ex127.py", "points": 1},
-        { "name": "ex128", "type": "run", "run": "cd exercises && python3 -m doctest ex128.py", "points": 1},
-        { "name": "ex129", "type": "run", "run": "cd exercises && python3 -m doctest ex129.py", "points": 1},
-        { "name": "ex130", "type": "run", "run": "cd exercises && python3 -m doctest ex130.py", "points": 1},
-        { "name": "ex131", "type": "run", "run": "cd exercises && python3 -m doctest ex131.py", "points": 1},
-        { "name": "ex132", "type": "run", "run": "cd exercises && python3 -m doctest ex132.py", "points": 1},
-        { "name": "ex133", "type": "run", "run": "cd exercises && python3 -m doctest ex133.py", "points": 1},
-        { "name": "ex134", "type": "run", "run": "cd exercises && python3 -m doctest ex134.py", "points": 1},
-        { "name": "ex135", "type": "run", "run": "cd exercises && python3 -m doctest ex135.py", "points": 1}
+        {
+          "name": "ex110",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex110.py",
+          "points": 1
+        },
+        {
+          "name": "ex111",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex111.py",
+          "points": 1
+        },
+        {
+          "name": "ex112",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex112.py",
+          "points": 1
+        },
+        {
+          "name": "ex113",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex113.py",
+          "points": 1
+        },
+        {
+          "name": "ex114",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex114.py",
+          "points": 1
+        },
+        {
+          "name": "ex115",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex115.py",
+          "points": 1
+        },
+        {
+          "name": "ex116",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex116.py",
+          "points": 1
+        },
+        {
+          "name": "ex117",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex117.py",
+          "points": 1
+        },
+        {
+          "name": "ex118",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex118.py",
+          "points": 1
+        },
+        {
+          "name": "ex119",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex119.py",
+          "points": 1
+        },
+        {
+          "name": "ex120",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex120.py",
+          "points": 1
+        },
+        {
+          "name": "ex121",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex121.py",
+          "points": 1
+        },
+        {
+          "name": "ex122",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex122.py",
+          "points": 1
+        },
+        {
+          "name": "ex123",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex123.py",
+          "points": 1
+        },
+        {
+          "name": "ex124",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex124.py",
+          "points": 1
+        },
+        {
+          "name": "ex125",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex125.py",
+          "points": 1
+        },
+        {
+          "name": "ex126",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex126.py",
+          "points": 1
+        },
+        {
+          "name": "ex127",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex127.py",
+          "points": 1
+        },
+        {
+          "name": "ex128",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex128.py",
+          "points": 1
+        },
+        {
+          "name": "ex129",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex129.py",
+          "points": 1
+        },
+        {
+          "name": "ex130",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex130.py",
+          "points": 1
+        },
+        {
+          "name": "ex131",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex131.py",
+          "points": 1
+        },
+        {
+          "name": "ex132",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex132.py",
+          "points": 1
+        },
+        {
+          "name": "ex133",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex133.py",
+          "points": 1
+        },
+        {
+          "name": "ex134",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex134.py",
+          "points": 1
+        },
+        {
+          "name": "ex135",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex135.py",
+          "points": 1
+        }
       ]
     },
     {
@@ -218,19 +675,84 @@
         "branch": "main"
       },
       "tests": [
-        { "name": "ex136", "type": "run", "run": "cd exercises && python3 -m doctest ex136.py", "points": 1},
-        { "name": "ex137", "type": "run", "run": "cd exercises && python3 -m doctest ex137.py", "points": 1},
-        { "name": "ex138", "type": "run", "run": "cd exercises && python3 -m doctest ex138.py", "points": 1},
-        { "name": "ex139", "type": "run", "run": "cd exercises && python3 -m doctest ex139.py", "points": 1},
-        { "name": "ex140", "type": "run", "run": "cd exercises && python3 -m doctest ex140.py", "points": 1},
-        { "name": "ex141", "type": "run", "run": "cd exercises && python3 -m doctest ex141.py", "points": 1},
-        { "name": "ex142", "type": "run", "run": "cd exercises && python3 -m doctest ex142.py", "points": 1},
-        { "name": "ex143", "type": "run", "run": "cd exercises && python3 -m doctest ex143.py", "points": 1},
-        { "name": "ex144", "type": "run", "run": "cd exercises && python3 -m doctest ex144.py", "points": 1},
-        { "name": "ex145", "type": "run", "run": "cd exercises && python3 -m doctest ex145.py", "points": 1},
-        { "name": "ex146", "type": "run", "run": "cd exercises && python3 -m doctest ex146.py", "points": 1},
-        { "name": "ex147", "type": "run", "run": "cd exercises && python3 -m doctest ex147.py", "points": 1},
-        { "name": "ex148", "type": "run", "run": "cd exercises && python3 -m doctest ex148.py", "points": 1}
+        {
+          "name": "ex136",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex136.py",
+          "points": 1
+        },
+        {
+          "name": "ex137",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex137.py",
+          "points": 1
+        },
+        {
+          "name": "ex138",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex138.py",
+          "points": 1
+        },
+        {
+          "name": "ex139",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex139.py",
+          "points": 1
+        },
+        {
+          "name": "ex140",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex140.py",
+          "points": 1
+        },
+        {
+          "name": "ex141",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex141.py",
+          "points": 1
+        },
+        {
+          "name": "ex142",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex142.py",
+          "points": 1
+        },
+        {
+          "name": "ex143",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex143.py",
+          "points": 1
+        },
+        {
+          "name": "ex144",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex144.py",
+          "points": 1
+        },
+        {
+          "name": "ex145",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex145.py",
+          "points": 1
+        },
+        {
+          "name": "ex146",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex146.py",
+          "points": 1
+        },
+        {
+          "name": "ex147",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex147.py",
+          "points": 1
+        },
+        {
+          "name": "ex148",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex148.py",
+          "points": 1
+        }
       ]
     },
     {
@@ -245,30 +767,150 @@
         "branch": "main"
       },
       "tests": [
-        { "name": "ex149", "type": "run", "run": "cd exercises && python3 -m doctest ex149.py", "points": 1},
-        { "name": "ex150", "type": "run", "run": "cd exercises && python3 -m doctest ex150.py", "points": 1},
-        { "name": "ex151", "type": "run", "run": "cd exercises && python3 -m doctest ex151.py", "points": 1},
-        { "name": "ex152", "type": "run", "run": "cd exercises && python3 -m doctest ex152.py", "points": 1},
-        { "name": "ex153", "type": "run", "run": "cd exercises && python3 -m doctest ex153.py", "points": 1},
-        { "name": "ex154", "type": "run", "run": "cd exercises && python3 -m doctest ex154.py", "points": 1},
-        { "name": "ex155", "type": "run", "run": "cd exercises && python3 -m doctest ex155.py", "points": 1},
-        { "name": "ex156", "type": "run", "run": "cd exercises && python3 -m doctest ex156.py", "points": 1},
-        { "name": "ex157", "type": "run", "run": "cd exercises && python3 -m doctest ex157.py", "points": 1},
-        { "name": "ex158", "type": "run", "run": "cd exercises && python3 -m doctest ex158.py", "points": 1},
-        { "name": "ex159", "type": "run", "run": "cd exercises && python3 -m doctest ex159.py", "points": 1},
-        { "name": "ex160", "type": "run", "run": "cd exercises && python3 -m doctest ex160.py", "points": 1},
-        { "name": "ex161", "type": "run", "run": "cd exercises && python3 -m doctest ex161.py", "points": 1},
-        { "name": "ex162", "type": "run", "run": "cd exercises && python3 -m doctest ex162.py", "points": 1},
-        { "name": "ex163", "type": "run", "run": "cd exercises && python3 -m doctest ex163.py", "points": 1},
-        { "name": "ex164", "type": "run", "run": "cd exercises && python3 -m doctest ex164.py", "points": 1},
-        { "name": "ex165", "type": "run", "run": "cd exercises && python3 -m doctest ex165.py", "points": 1},
-        { "name": "ex166", "type": "run", "run": "cd exercises && python3 -m doctest ex166.py", "points": 1},
-        { "name": "ex167", "type": "run", "run": "cd exercises && python3 -m doctest ex167.py", "points": 1},
-        { "name": "ex168", "type": "run", "run": "cd exercises && python3 -m doctest ex168.py", "points": 1},
-        { "name": "ex169", "type": "run", "run": "cd exercises && python3 -m doctest ex169.py", "points": 1},
-        { "name": "ex170", "type": "run", "run": "cd exercises && python3 -m doctest ex170.py", "points": 1},
-        { "name": "ex171", "type": "run", "run": "cd exercises && python3 -m doctest ex171.py", "points": 1},
-        { "name": "ex172", "type": "run", "run": "cd exercises && python3 -m doctest ex172.py", "points": 1}
+        {
+          "name": "ex149",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex149.py",
+          "points": 1
+        },
+        {
+          "name": "ex150",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex150.py",
+          "points": 1
+        },
+        {
+          "name": "ex151",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex151.py",
+          "points": 1
+        },
+        {
+          "name": "ex152",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex152.py",
+          "points": 1
+        },
+        {
+          "name": "ex153",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex153.py",
+          "points": 1
+        },
+        {
+          "name": "ex154",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex154.py",
+          "points": 1
+        },
+        {
+          "name": "ex155",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex155.py",
+          "points": 1
+        },
+        {
+          "name": "ex156",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex156.py",
+          "points": 1
+        },
+        {
+          "name": "ex157",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex157.py",
+          "points": 1
+        },
+        {
+          "name": "ex158",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex158.py",
+          "points": 1
+        },
+        {
+          "name": "ex159",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex159.py",
+          "points": 1
+        },
+        {
+          "name": "ex160",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex160.py",
+          "points": 1
+        },
+        {
+          "name": "ex161",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex161.py",
+          "points": 1
+        },
+        {
+          "name": "ex162",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex162.py",
+          "points": 1
+        },
+        {
+          "name": "ex163",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex163.py",
+          "points": 1
+        },
+        {
+          "name": "ex164",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex164.py",
+          "points": 1
+        },
+        {
+          "name": "ex165",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex165.py",
+          "points": 1
+        },
+        {
+          "name": "ex166",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex166.py",
+          "points": 1
+        },
+        {
+          "name": "ex167",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex167.py",
+          "points": 1
+        },
+        {
+          "name": "ex168",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex168.py",
+          "points": 1
+        },
+        {
+          "name": "ex169",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex169.py",
+          "points": 1
+        },
+        {
+          "name": "ex170",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex170.py",
+          "points": 1
+        },
+        {
+          "name": "ex171",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex171.py",
+          "points": 1
+        },
+        {
+          "name": "ex172",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex172.py",
+          "points": 1
+        }
       ]
     },
     {
@@ -283,20 +925,90 @@
         "branch": "main"
       },
       "tests": [
-        { "name": "ex173", "type": "run", "run": "cd exercises && python3 -m doctest ex173.py", "points": 1},
-        { "name": "ex174", "type": "run", "run": "cd exercises && python3 -m doctest ex174.py", "points": 1},
-        { "name": "ex175", "type": "run", "run": "cd exercises && python3 -m doctest ex175.py", "points": 1},
-        { "name": "ex176", "type": "run", "run": "cd exercises && python3 -m doctest ex176.py", "points": 1},
-        { "name": "ex177", "type": "run", "run": "cd exercises && python3 -m doctest ex177.py", "points": 1},
-        { "name": "ex178", "type": "run", "run": "cd exercises && python3 -m doctest ex178.py", "points": 1},
-        { "name": "ex179", "type": "run", "run": "cd exercises && python3 -m doctest ex179.py", "points": 1},
-        { "name": "ex180", "type": "run", "run": "cd exercises && python3 -m doctest ex180.py", "points": 1},
-        { "name": "ex181", "type": "run", "run": "cd exercises && python3 -m doctest ex181.py", "points": 1},
-        { "name": "ex182", "type": "run", "run": "cd exercises && python3 -m doctest ex182.py", "points": 1},
-        { "name": "ex183", "type": "run", "run": "cd exercises && python3 -m doctest ex183.py", "points": 1},
-        { "name": "ex184", "type": "run", "run": "cd exercises && python3 -m doctest ex184.py", "points": 1},
-        { "name": "ex185", "type": "run", "run": "cd exercises && python3 -m doctest ex185.py", "points": 1},
-        { "name": "ex186", "type": "run", "run": "cd exercises && python3 -m doctest ex186.py", "points": 1}
+        {
+          "name": "ex173",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex173.py",
+          "points": 1
+        },
+        {
+          "name": "ex174",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex174.py",
+          "points": 1
+        },
+        {
+          "name": "ex175",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex175.py",
+          "points": 1
+        },
+        {
+          "name": "ex176",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex176.py",
+          "points": 1
+        },
+        {
+          "name": "ex177",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex177.py",
+          "points": 1
+        },
+        {
+          "name": "ex178",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex178.py",
+          "points": 1
+        },
+        {
+          "name": "ex179",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex179.py",
+          "points": 1
+        },
+        {
+          "name": "ex180",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex180.py",
+          "points": 1
+        },
+        {
+          "name": "ex181",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex181.py",
+          "points": 1
+        },
+        {
+          "name": "ex182",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex182.py",
+          "points": 1
+        },
+        {
+          "name": "ex183",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex183.py",
+          "points": 1
+        },
+        {
+          "name": "ex184",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex184.py",
+          "points": 1
+        },
+        {
+          "name": "ex185",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex185.py",
+          "points": 1
+        },
+        {
+          "name": "ex186",
+          "type": "run",
+          "run": "cd exercises && python3 -m doctest ex186.py",
+          "points": 1
+        }
       ]
     },
     {
@@ -418,6 +1130,259 @@
         "repo": "PY2-OOP-proj-skeleton",
         "branch": "main"
       }
+    },
+    {
+      "slug": "wb-ch01",
+      "name": "Chapter 1: Printing & Expression",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-WB-ch01-skeleton",
+        "branch": "main"
+      },
+      "description": "Chapter 1: Printing & Expression",
+      "tests": [
+        {
+          "name": "ex001",
+          "type": "run",
+          "run": "python3 -m doctest ex001.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex002",
+          "type": "run",
+          "run": "python3 -m doctest ex002.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex003",
+          "type": "run",
+          "run": "python3 -m doctest ex003.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex004",
+          "type": "run",
+          "run": "python3 -m doctest ex004.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex005",
+          "type": "run",
+          "run": "python3 -m doctest ex005.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex006",
+          "type": "run",
+          "run": "python3 -m doctest ex006.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex007",
+          "type": "run",
+          "run": "python3 -m doctest ex007.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex008",
+          "type": "run",
+          "run": "python3 -m doctest ex008.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex009",
+          "type": "run",
+          "run": "python3 -m doctest ex009.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex010",
+          "type": "run",
+          "run": "python3 -m doctest ex010.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex011",
+          "type": "run",
+          "run": "python3 -m doctest ex011.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex012",
+          "type": "run",
+          "run": "python3 -m doctest ex012.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex013",
+          "type": "run",
+          "run": "python3 -m doctest ex013.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex014",
+          "type": "run",
+          "run": "python3 -m doctest ex014.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex015",
+          "type": "run",
+          "run": "python3 -m doctest ex015.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex016",
+          "type": "run",
+          "run": "python3 -m doctest ex016.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex017",
+          "type": "run",
+          "run": "python3 -m doctest ex017.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex018",
+          "type": "run",
+          "run": "python3 -m doctest ex018.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex019",
+          "type": "run",
+          "run": "python3 -m doctest ex019.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex020",
+          "type": "run",
+          "run": "python3 -m doctest ex020.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex021",
+          "type": "run",
+          "run": "python3 -m doctest ex021.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex022",
+          "type": "run",
+          "run": "python3 -m doctest ex022.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex023",
+          "type": "run",
+          "run": "python3 -m doctest ex023.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex024",
+          "type": "run",
+          "run": "python3 -m doctest ex024.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex025",
+          "type": "run",
+          "run": "python3 -m doctest ex025.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex026",
+          "type": "run",
+          "run": "python3 -m doctest ex026.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex027",
+          "type": "run",
+          "run": "python3 -m doctest ex027.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex028",
+          "type": "run",
+          "run": "python3 -m doctest ex028.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex029",
+          "type": "run",
+          "run": "python3 -m doctest ex029.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex030",
+          "type": "run",
+          "run": "python3 -m doctest ex030.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex031",
+          "type": "run",
+          "run": "python3 -m doctest ex031.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex032",
+          "type": "run",
+          "run": "python3 -m doctest ex032.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex033",
+          "type": "run",
+          "run": "python3 -m doctest ex033.py",
+          "points": 1,
+          "setup": "cd exercises"
+        },
+        {
+          "name": "ex034",
+          "type": "run",
+          "run": "python3 -m doctest ex034.py",
+          "points": 1,
+          "setup": "cd exercises"
+        }
+      ]
     }
   ]
 }
