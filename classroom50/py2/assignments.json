@@ -298,6 +298,126 @@
         { "name": "ex185", "type": "run", "run": "python3 -m doctest ex185.py", "points": 1, "setup": "cd exercises" },
         { "name": "ex186", "type": "run", "run": "python3 -m doctest ex186.py", "points": 1, "setup": "cd exercises" }
       ]
+    },
+    {
+      "slug": "proj-weather",
+      "name": "Mini Project: APIs (Weather Forcast)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-PROJ-weather-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "proj-capstone",
+      "name": "Capstone Project",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-PROJ-capstone-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "oop-ex01",
+      "name": "PY2 OOP: Exercise 1 (Circles)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-ex01-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "oop-ex02",
+      "name": "PY2 OOP: Exercise 2 (Cars)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-ex02-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "oop-ex03",
+      "name": "PY2 OOP: Exercise 3 (Circle with Coordinates)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-ex03-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "oop-ex04",
+      "name": "PY2 OOP: Exercise 4 (Currency Converter)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-ex04-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "oop-ex05",
+      "name": "PY2 OOP: Exercise 5 (Birds of a Feather)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-ex05-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "oop-ex06",
+      "name": "PY2 OOP: Exercise 6 (Messenger)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-ex06-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "oop-ex07",
+      "name": "PY2 OOP: Exercise 7 (Birds of a Feather 2)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-ex07-skeleton",
+        "branch": "main"
+      }
+    },
+    {
+      "slug": "proj-oop",
+      "name": "PY2 OOP: Mini Project (Pokémon Simulator)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-proj-skeleton",
+        "branch": "main"
+      }
     }
   ]
 }
