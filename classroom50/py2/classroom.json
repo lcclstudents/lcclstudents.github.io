@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "PY2",
+  "short_name": "py2",
+  "term": "",
+  "org": "lcclstudents",
+  "team": {
+    "id": 18549260,
+    "slug": "classroom50-py2"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18549261,
+      "slug": "classroom50-py2-instructor"
+    },
+    "ta": {
+      "id": 18549263,
+      "slug": "classroom50-py2-ta"
+    }
+  }
+}
