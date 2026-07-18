@@ -9,10 +9,6 @@
     "slug": "classroom50-py2"
   },
   "teams": {
-    "instructor": {
-      "id": 18549261,
-      "slug": "classroom50-py2-instructor"
-    },
     "ta": {
       "id": 18549263,
       "slug": "classroom50-py2-ta"
