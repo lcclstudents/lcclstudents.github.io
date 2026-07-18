@@ -16,6 +16,10 @@
     "ta": {
       "id": 18549263,
       "slug": "classroom50-py2-ta"
+    },
+    "teacher": {
+      "id": 18595781,
+      "slug": "classroom50-py2-teacher"
     }
   }
 }
