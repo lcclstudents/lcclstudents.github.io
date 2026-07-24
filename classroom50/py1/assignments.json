@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "exercises",
+      "name": "exercises",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY1-exercises-skeleton",
+        "branch": "main"
+      }
+    }
+  ]
 }
