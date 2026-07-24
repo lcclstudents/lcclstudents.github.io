@@ -12,6 +12,18 @@
         "repo": "PY1-exercises-skeleton",
         "branch": "main"
       }
+    },
+    {
+      "slug": "freestyle",
+      "name": "freestyle",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY1-freestyle-skeleton",
+        "branch": "main"
+      }
     }
   ]
 }
