@@ -1383,6 +1383,18 @@
           "setup": "cd exercises"
         }
       ]
+    },
+    {
+      "slug": "proj-tictactoe",
+      "name": "Mini Project: Tictactoe",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-PROJ-tictactoe-skeleton",
+        "branch": "main"
+      }
     }
   ]
 }
