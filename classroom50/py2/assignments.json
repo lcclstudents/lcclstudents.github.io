@@ -1395,6 +1395,18 @@
         "repo": "PY2-PROJ-tictactoe-skeleton",
         "branch": "main"
       }
+    },
+    {
+      "slug": "proj-minimax",
+      "name": "Mini Project: Minimax",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-PROJ-minimax-skeleton",
+        "branch": "main"
+      }
     }
   ]
 }
