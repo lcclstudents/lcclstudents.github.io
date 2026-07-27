@@ -1407,6 +1407,18 @@
         "repo": "PY2-PROJ-minimax-skeleton",
         "branch": "main"
       }
+    },
+    {
+      "slug": "proj-ctf",
+      "name": "Mini Project: Password CTF",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "py2-proj-ctf-skeleton",
+        "branch": "main"
+      }
     }
   ]
 }
