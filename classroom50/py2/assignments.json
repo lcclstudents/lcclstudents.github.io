@@ -1120,18 +1120,6 @@
       }
     },
     {
-      "slug": "proj-oop",
-      "name": "PY2 OOP: Mini Project (Pokémon Simulator)",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "template": {
-        "owner": "lcclstudents",
-        "repo": "PY2-OOP-proj-skeleton",
-        "branch": "main"
-      }
-    },
-    {
       "slug": "wb-ch01",
       "name": "Chapter 1: Printing & Expression",
       "mode": "individual",
