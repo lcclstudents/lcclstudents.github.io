@@ -1419,6 +1419,18 @@
         "repo": "py2-proj-ctf-skeleton",
         "branch": "main"
       }
+    },
+    {
+      "slug": "oop-proj",
+      "name": "PY2 OOP: Mini Project (Pokémon Simulator)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-OOP-proj-skeleton",
+        "branch": "main"
+      }
     }
   ]
 }
