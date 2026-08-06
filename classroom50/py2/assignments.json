@@ -1422,7 +1422,7 @@
     },
     {
       "slug": "proj-tomnjerry",
-      "name": "Cats and Robber (Tom & Jerry)",
+      "name": "Mini-project: Tom & Jerry",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
