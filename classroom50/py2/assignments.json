@@ -1419,6 +1419,18 @@
         "repo": "PY2-OOP-proj-skeleton",
         "branch": "main"
       }
+    },
+    {
+      "slug": "proj-tomnjerry",
+      "name": "proj-tomnjerry",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "lcclstudents",
+        "repo": "PY2-proj-tomnjerry-skeleton",
+        "branch": "main"
+      }
     }
   ]
 }
