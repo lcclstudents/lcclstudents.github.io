@@ -181,7 +181,11 @@
           "run": "cd exercises && python3 -m doctest ex062.py",
           "points": 1
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "wb-ch03",
@@ -327,7 +331,11 @@
           "run": "cd exercises && python3 -m doctest ex084.py",
           "points": 1
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "wb-ch04",
@@ -491,7 +499,11 @@
           "run": "cd exercises && python3 -m doctest ex109.py",
           "points": 1
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "wb-ch05",
@@ -661,7 +673,11 @@
           "run": "cd exercises && python3 -m doctest ex135.py",
           "points": 1
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "wb-ch06",
@@ -753,7 +769,11 @@
           "run": "cd exercises && python3 -m doctest ex148.py",
           "points": 1
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "wb-ch07",
@@ -911,7 +931,11 @@
           "run": "cd exercises && python3 -m doctest ex172.py",
           "points": 1
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "wb-ch08",
@@ -1009,7 +1033,11 @@
           "run": "cd exercises && python3 -m doctest ex186.py",
           "points": 1
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "proj-weather",
@@ -1021,6 +1049,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-PROJ-weather-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1033,6 +1065,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-PROJ-capstone-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1045,6 +1081,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-ex01-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1057,6 +1097,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-ex02-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1069,6 +1113,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-ex03-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1081,6 +1129,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-ex04-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1093,6 +1145,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-ex05-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1105,6 +1161,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-ex06-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1117,6 +1177,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-ex07-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1370,7 +1434,11 @@
           "points": 1,
           "setup": "cd exercises"
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "proj-tictactoe",
@@ -1382,6 +1450,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-PROJ-tictactoe-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1394,6 +1466,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-PROJ-minimax-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1406,6 +1482,10 @@
         "owner": "lcclstudents",
         "repo": "py2-proj-ctf-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1418,6 +1498,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-OOP-proj-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -1430,6 +1514,10 @@
         "owner": "lcclstudents",
         "repo": "PY2-proj-tomnjerry-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     }
   ]
