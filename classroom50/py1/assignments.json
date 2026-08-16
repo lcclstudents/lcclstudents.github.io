@@ -11,6 +11,10 @@
         "owner": "lcclstudents",
         "repo": "PY1-exercises-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -23,6 +27,10 @@
         "owner": "lcclstudents",
         "repo": "PY1-freestyle-skeleton",
         "branch": "main"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     }
   ]
