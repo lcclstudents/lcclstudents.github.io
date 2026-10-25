@@ -19,16 +19,13 @@
       "name": "freestyle",
       "mode": "individual",
       "autograder": "default",
-      "feedback_pr": true,
+      "feedback_pr": false,
       "template": {
         "owner": "lcclstudents",
         "repo": "PY1-freestyle-skeleton",
         "branch": "main"
       },
-      "submission_mode": "tag",
-      "grading": {
-        "mode": "auto"
-      }
+      "submission_mode": "tag"
     }
   ]
 }
